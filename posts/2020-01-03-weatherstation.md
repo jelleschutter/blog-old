@@ -1,5 +1,6 @@
 ---
 title: Weatherstation Project
+published: 2020-01-04
 ---
 # Weatherstation
 In the autumn semester of 2020 we got the oppurtunity to make an weather monitoring station. The finalised project should be ready for use by a sailing club along the lake of Zurich.
