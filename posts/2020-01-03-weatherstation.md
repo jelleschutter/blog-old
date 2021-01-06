@@ -17,4 +17,6 @@ The default operating system for the Raspberry Pi is "Raspberr Pi OS" (previousl
 In the beginning of January we got very close to a finished product. There are some small hidden possibilities for optimizations in the background process but the application works very well overall and covers all requirments stated in the project definition. We still have to create multiple presentations about our project so we will continue dealing with our project for the forseable future but the technical side is completed.
 ## Possiblities
 The project in its current form is only a prototype. The user interface is functional but is hard to look at. As a part of the project we also conceived a design proposal based on the data we currently have access to. Speaking about data: The product can improved in the future when more data comes available like the precipitation.
-Altough the are a lot of possibilites implementing the was not within the scope of this project. At same time 
+Altough the are a lot of possibilites implementing the was not within the scope of this project.
+## The End
+While there are some minor issues I am very proud of the product we developed since the start of the semester. We had to learn a new programming language. We had to use hardware we did not know before. We had to work in a team of people we did not know before. All these experiences will stay with us and help us a lot in future projects not only while studying but also when we start working in a company.
